@@ -1,38 +1,19 @@
-## hello i 澳门 iris！！！
-## Welcome to GitHub Pages
+# Hi!!
+### 我是stellar～当然你叫我猫猫或者是别的也是👌的
 
-You can use the [editor on GitHub](https://github.com/stellar-satellite/stellar-satellite.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 欢迎你来拜访我的博客分站（之一）鸭！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+以下展示我的luogu BLOG，包括以前我的很多OI相关的BLOG，正在努力搬运到这个网站，所以你可以先去那里看看哦😯
 
-### Markdown
+[点击这里访问我的OI相关BLOG](https://www.luogu.org/blog/DemiTwinkletoes/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+关于我的文学作品以及其他作品，还在努力搬运中，考虑到我真的是一个什么都不会的小白姑娘，原谅我一下吧qwq
 
-```markdown
-Syntax highlighted code block
+and ！ 假如你愿意帮助我一起建设这个网站，一定感激不尽15551❤️
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+最后附上个简短的自我介绍吧
+我是stellar，zine网名Pleiades，原因是自己真名缘起于昴星团
+然后还有很多..
+今年13岁辣～～
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stellar-satellite/stellar-satellite.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
